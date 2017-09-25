@@ -8,5 +8,6 @@ public class HelloWorld {
 	}
 	private static void greetDisplay() {
 		System.out.println("hello world");
+		System.out.println("test kucluk");
 	}
 }
